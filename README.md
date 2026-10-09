@@ -35,6 +35,12 @@ To build this project from source, follow these steps:
 3. **Run the App:**
    * Connect an Android device (Android 9.0+) or start an Emulator.
    * Click the **Run 'app'** button (green play icon) in Android Studio.
+## 📱 Screenshots
+
+| Main Interface | Processing / Result |
+| :---: | :---: |
+| ![Screenshot 1](Screenshots/Screenshot_1.jpg) | ![Screenshot 2](Screenshots/Screenshot_2.jpg) |
+| ![Screenshot 3](Screenshots/Screenshot_3.jpg) | ![Screenshot 4](Screenshots/Screenshot_4.jpg) |
 
 ## 📱 Download APK
 You can download the ready-to-use APK directly from the [Releases](https://github.com/Husso73/HeicConverter/releases) section of this repository or via APKPure.
