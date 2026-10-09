@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HEIC Converter</string>
+    <string name="app_description">Offline · Sans pub intrusive</string>
+    <string name="clear_all">Tout vider</string>
+    <string name="pick_images">Choisir des photos HEIC</string>
+    <string name="add_more">Ajouter d\'autres photos</string>
+    <string name="conversion_done">Conversion terminée</string>
+    <string name="error">Erreur</string>
+    <string name="success_message">%1$d JPG créés avec succès</string>
+    <string name="ok">OK</string>
+    <string name="converting">Conversion en cours…</string>
+    <string name="convert_to_jpg">Convertir en JPG</string>
+    <string name="android_version_error">Android 9+ requis pour décoder le HEIC</string>
+    <string name="unknown_error">Erreur inconnue</string>
+    <string name="remove">Retirer</string>
+    <string name="photos_selected">%1$d photo(s) sélectionnée(s)</string>
+    <string name="limit_reached">Limite de 20 photos atteinte</string>
+</resources>

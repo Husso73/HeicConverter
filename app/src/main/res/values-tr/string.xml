@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HEIC Dönüştürücü</string>
+    <string name="app_description">Çevrimdışı · Rahatsız edici reklam yok</string>
+    <string name="clear_all">Hepsini temizle</string>
+    <string name="pick_images">HEIC fotoğraflarını seç</string>
+    <string name="add_more">Daha fazla fotoğraf ekle</string>
+    <string name="conversion_done">Dönüştürme tamamlandı</string>
+    <string name="error">Hata</string>
+    <string name="success_message">%1$d JPG başarıyla oluşturuldu</string>
+    <string name="ok">Tamam</string>
+    <string name="converting">Dönüştürülüyor…</string>
+    <string name="convert_to_jpg">JPG\'ye dönüştür</string>
+    <string name="android_version_error">HEIC kodunu çözmek için Android 9+ gereklidir</string>
+    <string name="unknown_error">Bilinmeyen hata</string>
+    <string name="remove">Kaldır</string>
+    <string name="photos_selected">%1$d fotoğraf seçildi</string>
+    <string name="limit_reached">20 fotoğraf sınırına ulaşıldı</string>
+</resources>

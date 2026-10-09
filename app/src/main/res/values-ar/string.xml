@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محول HEIC</string>
+    <string name="app_description">غير متصل بالإنترنت · بدون إعلانات مزعجة</string>
+    <string name="clear_all">مسح الكل</string>
+    <string name="pick_images">اختر صور HEIC</string>
+    <string name="add_more">إضافة المزيد من الصور</string>
+    <string name="conversion_done">اكتمل التحويل</string>
+    <string name="error">خطأ</string>
+    <string name="success_message">تم إنشاء %1$d صور JPG بنجاح</string>
+    <string name="ok">موافق</string>
+    <string name="converting">جاري التحويل…</string>
+    <string name="convert_to_jpg">تحويل إلى JPG</string>
+    <string name="android_version_error">يتطلب نظام Android 9 أو أحدث لفك تشفير HEIC</string>
+    <string name="unknown_error">خطأ غير معروف</string>
+    <string name="remove">إزالة</string>
+    <string name="photos_selected">تم تحديد %1$d صورة</string>
+    <string name="limit_reached">تم الوصول إلى حد 20 صورة</string>
+</resources>
